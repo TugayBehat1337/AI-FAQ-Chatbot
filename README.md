@@ -2,6 +2,10 @@
 
 
 🧠 AI FAQ Chatbot
+
+
+
+
 AI FAQ Chatbot is a web-based chatbot designed to answer frequently asked questions (FAQs) from employees within an organization. The project uses HTML, CSS, and JavaScript, with data stored in a local JSON file to provide quick and accurate answers in real time.
 
 🔍 Key Features:
